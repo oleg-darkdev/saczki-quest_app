@@ -2,7 +2,7 @@
 	<nav class="navbar">
 		<div class="navbar-flex">
 			<div class="open-button">
-				<img src="images/64746d2efbdc4612ed8fc103_Menu.svg" loading="lazy" alt="" />
+				<img src="images/menu.svg" loading="lazy" alt="" />
 			</div>
 		</div>
 	</nav>
@@ -51,7 +51,7 @@
 				</a>
 			</div>
 			<div class="close-button">
-				<img src="images/64746d2efbdc4612ed8fc104_Close%20Menu.svg" loading="lazy" alt="" />
+				<img src="images/closeMenu.svg" loading="lazy" alt="" />
 			</div>
 		</div>
 		<div class="grid-col-menu mobile container">
@@ -98,7 +98,7 @@
 				</div>
 			</a>
 			<div class="close-button">
-				<img src="images/64746d2efbdc4612ed8fc104_Close%20Menu.svg" loading="lazy" alt="" />
+				<img src="images/closeMenu.svg" loading="lazy" alt="" />
 			</div>
 		</div>
 	</div>
