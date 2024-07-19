@@ -142,7 +142,7 @@
       }
 
       .no-scrollbar::-webkit-scrollbar {
-        display: none; 
+        display: none;
       }
 
       .faq_toggle .plus-rotate {
@@ -2378,7 +2378,7 @@ img {
 .pattern-bar {
   width: 28.5714%;
   height: 100%;
-  background-image: url("/images/64746d2efbdc4612ed8fc0ff_Pattern.svg");
+  background-image: url("/images/pattern.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2499,7 +2499,7 @@ img {
   height: 100vh;
   max-height: 67.5vw;
   min-height: 47vw;
-  background-image: url("/images/64746d2efbdc4612ed8fc10f_Josh%252BGriggs%252B-%252BTCF%252BFolio%252BLocation%252B%2826_08_18%297%201.jpg");
+  background-image: url("/images/photo_4.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3239,12 +3239,12 @@ img {
 }
 
 .accordion-numbering._2 {
-  background-image: url("/images/64746d2efbdc4612ed8fc106_num2.svg");
+  background-image: url("/images/num2.svg");
 }
 
 .accordion-numbering._3 {
-  background-image: url("/images/64746d2efbdc4612ed8fc109_num3.svg");
-} 
+  background-image: url("/images/num3.svg");
+}
 
 
 .accordion-image-placeholder {
@@ -3324,7 +3324,7 @@ img {
 .accordion-numbering {
   width: 25px;
   height: 25px;
-  background-image: url("/images/64746d2efbdc4612ed8fc10b_num1.svg");
+  background-image: url("/images/num1.svg");
   border: 2px solid #6e7d33;
   border-radius: 20px;
   background-position: 50%;
@@ -3359,7 +3359,7 @@ img {
 
 .top-study-img {
   object-fit: cover;
-  background-image: url("/images/64746d2efbdc4612ed8fc110_Josh%252BGriggs%252B-%252BTCF%252BFolio%252BLocation%252B%2826_08_18%297%201.png");
+  background-image: url("/images/photo_4.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3694,7 +3694,7 @@ img {
 .accordion-pattern-inside {
   width: 100%;
   height: 100%;
-  background-image: url("/images/64746d2efbdc4612ed8fc105_Circle%20Inner.svg");
+  background-image: url("/images/circleInner.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
