@@ -1,12 +1,12 @@
 <script>
-    const project = 
+    const project =
     {
         title: 'Lorem Ipsum is simply',
-        previewImage: 'images/64746d2efbdc4612ed8fc141_Rectangle%203.jpg',
+        previewImage: 'images/lorem.jpg',
         gallery: [
-            'images/64746d2efbdc4612ed8fc141_Rectangle%203.jpg',
-            'images/64746d2efbdc4612ed8fc141_Rectangle%203.jpg',
-            'images/64746d2efbdc4612ed8fc141_Rectangle%203.jpg',
+            'images/lorem.jpg',
+            'images/lorem.jpg',
+            'images/lorem.jpg',
         ]
     }
 
@@ -40,7 +40,7 @@
             <div class="first-featured-content">
             <div class="first-wrap">
                 <p class="type-para-intro bold first-content-size max-320px">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.                 
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
                 </p>
                 <!-- <div class="first-featured-wrap">
                 <div class="faq_small_item">
@@ -57,7 +57,7 @@
                     <div class="faq_small_content">
                     <div class="accordion-text-block max-360">Wainui Environmental provides consultancy services for developments ranging from small individual lots up to full scale catchment studies. Our services cover all stages of your project, from preliminary studies through to construction.</div>
                     </div>
-                </div>              
+                </div>
                 </div> -->
             </div>
             <div class="pattern-bar"></div>
