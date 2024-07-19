@@ -1,4 +1,5 @@
-// import FactSheet from './ui/landing/FactSheet.svelte';
+import ChronologyCard from './ui/landing/ChronologyCard.svelte';
+import ProjectCard from './ui/landing/ProjectCard.svelte';
 
 
-// export { FactSheet };
+export { ChronologyCard, ProjectCard };
