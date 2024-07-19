@@ -16,8 +16,8 @@
                   <div class="box-wrap">
                     <!-- slider ? -->
                     <div class="featured-wrap-row">
-                      <a href="#" class="featured-lightbox-image w-inline-block w-lightbox">
-                        <img src="images/64746d2efbdc4612ed8fc13b_1%20water_light.png" loading="lazy" alt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit" sizes="100vw" srcset="images/64746d2efbdc4612ed8fc13b_1%2520water_light-p-500.png 500w, images/64746d2efbdc4612ed8fc13b_1%20water_light.png 598w" class="featured-image">
+                      <a href="/" class="featured-lightbox-image w-inline-block w-lightbox">
+                        <img src="images/water_light.png" loading="lazy" alt="Lorem ipsum dolor sit amet, consectetuer adipiscing elit" sizes="100vw"  class="featured-image">
 
                       </a>
                       <!-- <a href="#" id="w-node-_3fda0978-2bab-b65f-b73b-b0a06215617f-ed8fc09f" class="featured-lightbox-image w-inline-block w-lightbox">
@@ -28,7 +28,7 @@
                         <div class="type-details">02</div>
                       </div> -->
                     </div>
-                    
+
                   </div>
                   <div class="featured-description">
                     <!-- <div>
@@ -161,4 +161,3 @@
       </div>
     </section>
 
-    

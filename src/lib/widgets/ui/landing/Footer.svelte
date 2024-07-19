@@ -19,7 +19,7 @@
 			</div>
 			<div class="footer-detail">
 				<!-- https://goo.gl/maps/2nu2g5N7orCKpbCFA -->
-				<a href="" target="_blank" class="fixed-link-width"
+				<a href="/" target="_blank" class="fixed-link-width"
 					>SĄCZKI (Rieselfeld), Gdansk, Poland</a
 				>
 			</div>

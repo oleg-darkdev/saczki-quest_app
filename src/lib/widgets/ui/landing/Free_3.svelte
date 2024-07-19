@@ -1,4 +1,4 @@
-<div class="section top-full-height">
+<!-- <div class="section top-full-height">
       <div class="container super-grid half-top">
         <div id="w-node-_9a1e5b7a-b114-e4f2-1114-fa7d103da779-ed8fc0a7" class="box-content">
           <h1>working for <br>healthy <br>environments </h1>
@@ -18,7 +18,7 @@
     </div>
 
 
-    
+
     <section class="section">
       <div class="container super-grid half-bottom">
         <div id="w-node-d7816f3f-6491-ec38-2856-2fa1fdcce310-ed8fc0a7" class="box-content">
@@ -126,4 +126,4 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->

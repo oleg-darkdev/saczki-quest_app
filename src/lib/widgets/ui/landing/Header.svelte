@@ -40,7 +40,7 @@
               <a href="{href}" class="box-content-text link type-para-intro">{title}</a>
             {/each}
           </div>
-          <img src="images/64746d2efbdc4612ed8fc0bd_Arrow%202.svg" loading="lazy" alt="SĄCZKI arrow down" class="arrow">
+          <img src="images/arrow_2.svg" loading="lazy" alt="SĄCZKI arrow down" class="arrow">
         </div>
       </div>
       <div class="box-heading-wrap flex brand">

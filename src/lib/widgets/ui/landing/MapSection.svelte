@@ -120,7 +120,7 @@
             <div class="work-with-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
             <button on:click={()=> showFull = !showFull} class="work-with-link w-inline-block">
                 <div class="work-with-link-text">Wyświetl pełną listę obiektów</div>
-                <img src="images/64746d2efbdc4612ed8fc0e0_ArrowRight.svg" loading="lazy" alt="arrow">
+                <img src="images/arrowRight.svg" loading="lazy" alt="arrow">
             </button>
         </div>
 
@@ -130,7 +130,7 @@
                 <a href="{href}" class="work-with-link-large w-inline-block">
                     <div class="accordion-numbering-map" style="background-image: url({img});" ></div>
                     <div class="job-text">{title}</div>
-                    <img src="images/64746d2efbdc4612ed8fc0e0_ArrowRight.svg" loading="lazy"  alt="arrow">
+                    <img src="images/arrowRight.svg" loading="lazy"  alt="arrow">
                 </a>
             {/each}
         </div>
