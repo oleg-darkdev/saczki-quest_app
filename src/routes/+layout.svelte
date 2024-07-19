@@ -8,7 +8,7 @@
 	});
 </script>
 
-<main class="bg-black overflow-hidden">
+<main class="bg-[#f2f2e9] overflow-hidden">
 	<slot />
 </main>
 
